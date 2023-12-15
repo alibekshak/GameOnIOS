@@ -14,6 +14,7 @@
 		183168192B26C4D2007BBDD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183168172B26C4D2007BBDD8 /* Main.storyboard */; };
 		1831681B2B26C4D5007BBDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1831681A2B26C4D5007BBDD8 /* Assets.xcassets */; };
 		1831681E2B26C4D5007BBDD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1831681C2B26C4D5007BBDD8 /* LaunchScreen.storyboard */; };
+		1831682B2B2C5B65007BBDD8 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 1831682A2B2C5B65007BBDD8 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		183168182B26C4D2007BBDD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1831681A2B26C4D5007BBDD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1831681D2B26C4D5007BBDD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1831682A2B2C5B65007BBDD8 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				183168172B26C4D2007BBDD8 /* Main.storyboard */,
 				1831681A2B26C4D5007BBDD8 /* Assets.xcassets */,
 				1831681C2B26C4D5007BBDD8 /* LaunchScreen.storyboard */,
+				1831682A2B2C5B65007BBDD8 /* FireParticles.sks */,
 			);
 			path = GameOnIOS;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				183168192B26C4D2007BBDD8 /* Main.storyboard in Resources */,
 				183168102B26C4D2007BBDD8 /* GameScene.sks in Resources */,
+				1831682B2B2C5B65007BBDD8 /* FireParticles.sks in Resources */,
 				1831681B2B26C4D5007BBDD8 /* Assets.xcassets in Resources */,
 				1831681E2B26C4D5007BBDD8 /* LaunchScreen.storyboard in Resources */,
 			);
